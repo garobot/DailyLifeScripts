@@ -12,7 +12,7 @@ This repository holds a curated list of Python scripts which aim to help us auto
 
 ## How to contribute
 
-Our repository accepts all kinds of contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/garobot/Hacktoberfest_21/blob/main/.github/CONTRIBUTING.md).
+Our repository accepts all kinds of contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/garobot/Hacktoberfest_21/blob/main/Contribution.md).
 
 You can open an issue with us for a bug, feature or a new script or start working on an existing issue after having it assigned to you by one of the maintainers.
 
