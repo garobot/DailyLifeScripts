@@ -1,13 +1,11 @@
 # Hacktoberfest_21
 This repository will contain general purpose daily life needed python Scripts. Happy Hacking
-<p align="center">
-  
-  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="350" alt="Hacktober2021">
-</p>
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plasitc)](https://github.com/psf/black)
 ![License](https://img.shields.io/github/license/garobot/Hacktoberfest_21?color=blue&style=plasitc)
 ![Contributors](https://img.shields.io/github/contributors/garobot/Hacktoberfest_21?color=darkgreen&style=plasitc)
 ![Forks](https://img.shields.io/github/forks/garobot/Hacktoberfest_21?color=purple&style=plasitc)
+
+<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="Hacktober2021" align="center>
 
 ## Introduction
 
