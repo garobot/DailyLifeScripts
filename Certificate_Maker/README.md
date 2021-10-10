@@ -1,6 +1,7 @@
 # Certificate Maker
 ```
-This folder contains a python3 script to make a certificate, given the names of people in excel format. It creates both pdf and png version of certificates.
+This folder contains a python3 script to make a certificate, given the names of people in excel format.
+It creates both pdf and png version of certificates.
 ```
 
 # Requirements
