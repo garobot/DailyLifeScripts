@@ -24,10 +24,10 @@ pip install pillow
 ```
 
 # How this script works
-* Fork this repository and clone it in your local directory. Specify the template path, participants file path and output directory path in the appropriate places.
+* Fork this repository and clone it in your local directory. Specify the template path, participants file path and output directory path in the places specified.
 
 * Execute the certificate_maker.py file.
-Make sure you have saved your certificate template as certificate_template.png and participants list as participants.xlsx in the same folder.
+Make sure you have saved your certificate template as certificate_template.png and participants list as participants.xlsx in the same directory.
 ```
 python certificate_maker.py
 ```
